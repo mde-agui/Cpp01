@@ -1,4 +1,4 @@
-# C++ Module 01
+# C++ Module 01 - Memory allocation, pointers to members, references and switch statements
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
